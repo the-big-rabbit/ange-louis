@@ -1,0 +1,310 @@
+h1 {
+    background-color: black;
+    color: gold;
+    font-family: serif;
+}
+
+h2 {
+    background-color: blue;
+    color: red;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3 {
+    background-color: blue;
+    color: red;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+li {
+    color: black;
+    font-size: 25px;
+    font-family: fantasy;
+}
+
+.logo {
+    font-size: 25PX;
+    background-color: red;
+    border-radius: 10px;
+    box-shadow: 6px 6px 0px;
+    padding: 100px;
+}
+
+.équipe {
+    font-size: 25px;
+    background-color: blue;
+    border-radius: 30% 70% 70% 70% 30% / 30% 58% 42% 70%;
+    padding: 100px;
+
+}
+
+a:hover {
+    color: deeppink;
+}
+
+.logo:hover {
+    opacity: 0.5;
+}
+
+.équipe:hover {
+    opacity: 0.5
+}
+
+a:active {
+    background-color: green;
+}
+
+.titre {
+    background-color: green;
+    color: pink;
+    font-size: 25px;
+}
+
+.titre_2 {
+    background-color: green;
+    color: pink;
+    font-size: 25px;
+}
+
+.titre_3 {
+    background-color: green;
+    color: pink;
+    font-size: 25px;
+}
+
+.titre4 {
+    background-color: green;
+    color: pink;
+    font-size: 25px;
+}
+
+.titre5 {
+    background-color: green;
+    color: pink;
+    font-size: 25px;
+}
+
+.logo_histoire {
+    font-size: 25PX;
+    background-color: red;
+    border-radius: 10px;
+    box-shadow: 6px 6px 0px;
+    padding: 100px;
+
+}
+
+.logo_histoire:hover {
+    opacity: 0.5;
+}
+
+.maillot {
+    font-size: 25px;
+    background-color: red;
+    border-radius: 30% 70% 70% 70% 30% / 30% 58% 42% 70%;
+    padding: 100px;
+
+}
+
+.maillot:hover {
+    opacity: 0.5;
+}
+
+.ville_1 {
+    background-color: green;
+    color: pink;
+    font-size: 25px;
+}
+
+.monument {
+    background-color: green;
+    color: pink;
+    font-size: 25px;
+
+}
+
+.centre_ville {
+    font-size: 25px;
+    background-color: red;
+    border-radius: 30% 70% 70% 70% 30% / 30% 58% 42% 70%;
+    padding: 50px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.centre_ville:hover {
+    opacity: 0.5;
+}
+
+.mer {
+    background-color: green;
+    color: pink;
+    font-size: 25px;
+}
+
+.mer_photo {
+    font-size: 25px;
+    background-color: red;
+    border-radius: 30% 70% 70% 70% 30% / 30% 58% 42% 70%;
+    padding: 100px;
+}
+
+.mer_photo:hover {
+    opacity: 0.5
+}
+
+
+.commerce {
+    background-color: green;
+    color: pink;
+    font-size: 25px;
+}
+
+.commerce_photo {
+    font-size: 25px;
+    background-color: red;
+    border-radius: 30% 70% 70% 70% 30% / 30% 58% 42% 70%;
+    padding: 30px;
+}
+
+.commerce_photo:hover {
+    opacity: 0.5;
+}
+
+.culture {
+    background-color: green;
+    color: pink;
+    font-size: 25px;
+
+}
+
+.culture_image {
+    font-size: 25px;
+    background-color: red;
+    border-radius: 30% 70% 70% 70% 30% / 30% 58% 42% 70%;
+    padding: 100px;
+
+}
+
+.culture_image:hover {
+    opacity: 0.5;
+}
+
+.west_tour {
+    font-size: 25px;
+    background-color: red;
+    border-radius: 30% 70% 70% 70% 30% / 30% 58% 42% 70%;
+    padding: 50px;
+    width: 50%;
+    height: auto;
+}
+
+.west_tour:hover {
+    opacity: 0.5;
+}
+
+.anfield {
+    background-color: green;
+    color: pink;
+    font-size: 25px;
+
+}
+
+.anfield_image {
+    font-size: 25px;
+    background-color: red;
+    border-radius: 30% 70% 70% 70% 30% / 30% 58% 42% 70%;
+    padding: 100px;
+
+}
+
+.anfield_image:hover {
+    opacity: 0.5;
+}
+
+.general {
+    background-color: green;
+    color: pink;
+    font-size: 25px;
+
+}
+
+.construction {
+    background-color: green;
+    color: pink;
+    font-size: 25px;
+
+}
+
+.utiliser {
+    background-color: green;
+    color: pink;
+    font-size: 25px;
+
+
+}
+
+.equipement {
+    background-color: green;
+    color: pink;
+    font-size: 25px;
+
+}
+
+.localiser {
+    background-color: green;
+    color: pink;
+    font-size: 25px;
+}
+
+.accident {
+    background-color: green;
+    color: pink;
+    font-size: 25px;
+
+}
+
+nav.menu ul {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+}
+
+nav.menu ul li {
+    margin: 0 10px 0 10px;
+    font-size: 18px;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+
+}
+.logo_site img{
+    width: 150px;
+    height: auto;
+}
+.div_monument{
+    display: flex;
+    flex-direction: row;
+
+}
+.div_monument .p_1, .div_image_1{
+    width: 50%;
+    height: auto;
+
+}
+.div_west_texte{
+    display: flex;
+    flex-direction: row;
+}
+footer{
+    display: flex;
+    flex-direction: row;
+    background-color: red;
+    color: azure;
+    align-items: center;
+    justify-content: center;
+    
+}
